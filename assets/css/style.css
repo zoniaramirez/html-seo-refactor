@@ -82,7 +82,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* condensed class benefit, benefit h3, benefit img */
+/* condensed selectors and renamed them benefit, benefit h3, benefit img */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
