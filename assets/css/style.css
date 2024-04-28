@@ -82,17 +82,17 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* condensed selectors and renamed them benefit, benefit h3, benefit img */
+/* condensed selectors and renamed them benefit*/
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* condensed selectors and renamed them benefit h3 */
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* condensed selectors and renamed them benefit img */
 .benefit img {
     display: block;
     margin: 10px auto;
@@ -108,11 +108,11 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* condensed selectors and renamed them to content item img */
 .content-item img {
     max-height: 200px;
 }
-
+/* condensed selectors and renamed them to content item h2 */
 .content-item h2 {
     margin-bottom: 20px;
     font-size: 36px;
