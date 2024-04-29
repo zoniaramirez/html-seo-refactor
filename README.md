@@ -3,19 +3,10 @@
 ## Description
 
 
-## Installation
-
-
-## Usage
-
-
-## Credits
-N/A
-
-## License
-Please refer to the LICENSE in the repo.
 
 ![alttext](assets/images/screenshot.png)
+
+## Links
 
 [LiveURL](https://zoniaramirez.github.io/html-seo-refactor/)
 
